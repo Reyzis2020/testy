@@ -13,6 +13,7 @@ public class Zoo {
     private int tigersCount;
     private int parotsCount;
     private int raccoonsCount;
+	private int pigsCount
 
     public static void main(String[] args) throws IOException {
 
