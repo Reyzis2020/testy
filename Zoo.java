@@ -15,8 +15,10 @@ public class Zoo {
     private int raccoonsCount;
 
 
+
     public static void main(String[] args) throws IOException {
 
+System.out.println("Hello World!")
         //Ввод с клавиатуры
 
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
